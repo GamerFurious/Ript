@@ -37,10 +37,6 @@ original source, Python, showing you the source code of the file.
 <strong>+ Powerful</strong>
 <br>
 
-<p align="right">
-<img src="https://repository-images.githubusercontent.com/377591030/2d6a28f3-22f0-4294-9146-874c9124599c" width="250", height="250">
-</p>
-
 <br>
 <strong>- Sometimes the decompilation isn't complete, but it happens rarely</strong>
 <br><br>
